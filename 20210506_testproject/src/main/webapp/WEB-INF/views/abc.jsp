@@ -2,14 +2,11 @@
     pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
-<head> 
+<head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Insert title here</title>
 </head>
 <body>
-<h1>연습하기</h1>
-<h2>됐나?</h2>
-<h3>123213</h3>
-<h1>안돼요</h1>
+어떻게 하는 거지?
 </body>
 </html>
