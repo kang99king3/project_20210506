@@ -8,5 +8,6 @@
 </head>
 <body>
 <h1>연습하기</h1>
+<h2>됐나?</h2>
 </body>
 </html>
